@@ -1,3 +1,6 @@
-# reporting_dashboard_tableau_design
+# Reporting Dashboard: Tableau Design
+At my company, I've developed numerous Tableau dashboards and monitoring platforms to enable executives to self-serve the insights they seek. My approach is user-centric, considering essential metrics, ease of use, and features that intuitively display insights. I focus on interactivity and aesthetic design, and strategically think through data architecture, considering factors like load speed, accuracy, timeliness, and sustainability to ensure that the dashboards not only deliver valuable insights but also do so efficiently and reliably over time.
+
+As shown below, in my personal time outside of work, I created a simple self-serve dashboard example related to claim case retrieval. When launched, the dashboard presents an overview with key metrics at the top, and a list of all related claim cases with their essential details at the bottom. Users can open a filter icon in the top left corner to retrieve cases they wish to view, searchable by ID, amount, or custom keywords. Selecting a specific case triggers a popup window that displays detailed case information, and the upper section's charts dynamically drill down to reflect data pertinent to the chosen case.
 
 ![image](https://github.com/JiayangChloeDu/reporting_dashboard_tableau_design/blob/main/copy_6FF1675A-3AEA-4660-9173-03299E05598D1-ezgif.com-optimize.gif)
